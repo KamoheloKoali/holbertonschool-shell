@@ -1,1 +1,1 @@
-shell basics at holbertonschool
+learning shell at holbertonschool
