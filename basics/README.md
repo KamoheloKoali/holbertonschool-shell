@@ -1,1 +1,1 @@
-Learning system variables and what
+Learning shell basics
