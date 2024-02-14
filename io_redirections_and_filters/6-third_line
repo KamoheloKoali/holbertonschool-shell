@@ -1,2 +1,2 @@
 #!/bin/bash
-less --jump-target=3 iacta
+head -3 | tail -1
