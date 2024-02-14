@@ -1,0 +1,2 @@
+#!/bin/bash
+less -jn 3 iacta
