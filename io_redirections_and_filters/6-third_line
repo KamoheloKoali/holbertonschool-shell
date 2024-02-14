@@ -1,2 +1,2 @@
 #!/bin/bash
-less -jn 3 iacta
+less --jump-target=3 iacta
